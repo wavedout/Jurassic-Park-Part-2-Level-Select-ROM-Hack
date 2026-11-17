@@ -1,0 +1,12 @@
+# Jurassic Park Part 2 - Level Select v1.0
+
+Adds a level select to Jurassic Park Part 2: The Chaos Continues, using the game's original computer-screen design.
+
+- Select any of the game's 15 stages, including boss fights and T-Rex pursuits
+- Choose how many lives to start, ranging from 3 to 99
+- Menu supports English, Italian, French, and German
+- Original briefings, cutscenes, and stage transitions remain intact
+
+Apply the included BPS or IPS patch to the clean USA/Europe multilingual Game Boy ROM. BPS validates the source ROM. No game ROM is included.
+
+Hack by **wavedout**.
